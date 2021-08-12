@@ -1,5 +1,3 @@
-# [zoom-meetings-page-auto-closer](https://chrome.google.com/webstore/detail/zoom-meetings-page-auto-c/edflihlonecjkejpbajecilgmopegldj)
-
 # Privacy Policy
 
 ## - __We don't have any servers.__
