@@ -2,7 +2,7 @@
   "name": "AWS CLI Authentication Page Auto Closer",
   "description": "Automatically closes the page used to authenticate into an AWS CLI.",
   "version": "0.0.1",
-  "manifest_version": 1,
+  "manifest_version": 2,
   "homepage_url": "https://github.com/angellist/aws-cli-authentication-page-auto-closer",
   "icons": {
     "16": "icons/icon-128.png",
